@@ -1,9 +1,0 @@
-README.md
-build.gradle
-gradle
-gradlew
-gradlew.bat
-out
-settings.gradle
-src
-t
